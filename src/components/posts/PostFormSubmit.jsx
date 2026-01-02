@@ -1,3 +1,4 @@
+import React from 'react';
 import { Box, Button } from "@mui/material";
 
 function PostFormSubmit({ isEdit }) {

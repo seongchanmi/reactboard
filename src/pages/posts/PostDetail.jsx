@@ -1,3 +1,4 @@
+import React from 'react';
 import { Box, Paper } from '@mui/material';
 import PostDetailHeader from '../../components/posts/PostDetailHeader';
 import PostDetailContent from '../../components/posts/PostDetailContent';

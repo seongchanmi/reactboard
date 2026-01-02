@@ -1,3 +1,4 @@
+import React from 'react';
 import { Box, Divider, Typography } from "@mui/material";
 
 function PostDetailContent({ post, apiBasic }) {
